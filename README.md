@@ -1,2 +1,2 @@
 # NewsApp
-Contains small projects and practices of android
+News app is an app to demonstrate latest android components
